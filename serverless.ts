@@ -27,18 +27,6 @@ const serverlessConfiguration: Serverless = {
     region: 'ap-northeast-2',
   },
   functions: {
-    hello: {
-      handler: 'handler.hello',
-      events: [
-        {
-          http: {
-            method: 'get',
-            path: 'hello',
-            cors: true,
-          }
-        }
-      ]
-    },
     token: {
       handler: 'handler.token',
       events: [
