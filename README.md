@@ -3,6 +3,8 @@
 
 This Project is build with [serverless](https://github.com/serverless/serverless) and ❤️
 
+> 🚨 This project will be updated with [FastAPI](https://fastapi.tiangolo.com) soooooon!
+
 <br>
 
 ## 🛠 Development Environment
